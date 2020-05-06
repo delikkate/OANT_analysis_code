@@ -68,4 +68,4 @@ fclose(fid);
 
 fprintf(1, 'DONE.\n')
 
-% Now the .dat file in ready to be exported to SPSS.
+% Now the .dat file is ready to be exported to SPSS.
